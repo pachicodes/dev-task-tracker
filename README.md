@@ -1,7 +1,7 @@
 # GitHub Copilot Workshop
 
 ## Pra começar:
-1. De fork nesse [repo](https://github.com/LadyKerr/dev-task-tracker/tree/main)
+1. De fork nesse [repo](https://github.com/pachicodes/dev-task-tracker/tree/main)
 2. clone o repo na sua máquina
 
 ```bash
