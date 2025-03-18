@@ -1,23 +1,23 @@
 # GitHub Copilot Workshop
 
-## To get started:
-1. fork the [repo](https://github.com/LadyKerr/dev-task-tracker/tree/main)
-2. clone the repo to your local machine
+## Pra começar:
+1. De fork nesse [repo](https://github.com/LadyKerr/dev-task-tracker/tree/main)
+2. clone o repo na sua máquina
 
 ```bash
 git clone <your-forked-repo-url>
 ```
-3. switch to the `start-state` branch
+3. troque para o branch `start-state` 
 
 ```bash
 git switch start-state
 ```
-4. open project in your Editor and open `index.html` in your browser
+4. abra o projecto no seu editor de código e abra `index.html` no seu navegador
 
-You can use the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VS Code to open the index.html file in your browser.
+Você pode usar [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no Vs Code pra abrir o htmlo no navegador
 
 ## Live Demo prompts
 
-To learn ho wto use GitHub Copilot we will complete a series of tasks to make this project better.
+Para aprender a usar o GitHub Copilot vamos completar uma série de tarefas para melhorar esse projeto
 
-We'll be using the [workshop-prompts](./workshop-prompts.md) file to get started. 
+Vamos usar o arquivo [workshop-prompts](./workshop-prompts.md) pra começar
